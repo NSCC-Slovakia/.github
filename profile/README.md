@@ -19,6 +19,7 @@ Dúbravská cesta 3484/9,<br>
 841 04 Bratislava – Karlova Ves
 
 **General Email Address:** eurocc@nscc.sk
+**Follow us on Instagram:** [EUROCC Slovakia Instagram](https://www.instagram.com/euroccslovakia/)
 
 
 
