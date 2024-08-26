@@ -1,4 +1,4 @@
-# National Competence Center
+# National Competence Center for HPC Slovakia
 
 https://eurocc.nscc.sk/
 
