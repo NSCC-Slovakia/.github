@@ -1,4 +1,4 @@
-# National competence Center
+# National Competence Center
 
 https://eurocc.nscc.sk/
 
@@ -12,9 +12,9 @@ Our goal is to support and oversee all HPC activities in Slovakia. Since 2020, w
 High-performance computing (HPC) or the use of supercomputers has historically been primarily the domain of academic research and development, especially in the natural sciences. Today, thanks to advances in HPC technologies, applications, and to a significant extent due to the rise of artificial intelligence and the need to process large datasets, we are witnessing an increased demand for high-performance computing infrastructure. 
 
 ## Correspondence Address:
-National Supercomputing Center
-Dúbravská cesta 3484/9,
-841 04 Bratislava – Karlova Ves District
+National Supercomputing Center\\
+Dúbravská cesta 3484/9\\
+841 04 Bratislava – Karlova Ves
 
 **General Email Address:** eurocc@nscc.sk
 
