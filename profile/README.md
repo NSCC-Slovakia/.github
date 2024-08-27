@@ -4,7 +4,7 @@ https://eurocc.nscc.sk/
 
 # National Supercomputing Centre
 <p align="center">
-  <img src="logo1.png" alt="Logo 1" width="300"/>
+  <img src="logo1.png" alt="Logo 1" width="450"/>
   <img src="logo2.png" alt="Logo 2" width="150"/>
 </p>
 
