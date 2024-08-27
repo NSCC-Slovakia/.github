@@ -5,6 +5,9 @@ https://eurocc.nscc.sk/
 # National Supercomputing Center
 
 ![EUROCC Logo](https://eurocc.nscc.sk/wp-content/uploads/2021/03/CC_EURO-_logo_gold-en-1.png)
+![My Logo](logo1.png)
+![My Logo](logo2.png)
+
 
 National Supercomputing Center is an association of legal entities established in November 2020 with the aim of becoming the leading organization for the field of high-performance computing (HPC) in Slovakia.
 
